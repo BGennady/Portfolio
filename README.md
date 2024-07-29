@@ -24,9 +24,9 @@ Java Программист
 
 #### **_Контактная информация:_**
 
-Email: gennady.korolev@example.com
+**Email: _gennady.korolev@example.com_**
 
-LinkedIn: linkedin.com/in/gennady-korolev
+***LinkedIn: linkedin.com/in/gennady-korolev***
 
 ##### Создано с помощью ChatGPT.
 
