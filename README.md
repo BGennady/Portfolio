@@ -1,5 +1,3 @@
-# Portfolio
-
 Геннадий Королев
 
 Java Программист
@@ -31,3 +29,6 @@ Email: gennady.korolev@example.com
 LinkedIn: linkedin.com/in/gennady-korolev
 
 Создано с помощью ChatGPT.
+
+
+![1672434974_flomaster-club-p-litso-muzhchini-risunok-dlya-detei-pintere-1](https://github.com/user-attachments/assets/560e054a-f24b-460b-b326-6b09d25f58bf)
